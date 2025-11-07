@@ -42,12 +42,6 @@ const Footer = () => {
 
         {/* Right Attribution */}
         <div className="text-sm text-white/60 text-center md:text-right">
-          <p>
-            Made with 💜 by{" "}
-            <span className="text-cyan-400 font-semibold hover:underline underline-offset-2 decoration-dotted cursor-default">
-              Saurav Pandey
-            </span>
-          </p>
           <p className="text-xs text-white/30 mt-1">
             © {new Date().getFullYear()} NFTiX
           </p>
